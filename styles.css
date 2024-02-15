@@ -63,7 +63,7 @@ li {
 }    
 
 .row {
-     width: 100px;
+     width: 100%;
      max-width:  1300px;
      display: flex;
      align-items: center;
@@ -78,7 +78,7 @@ ABOUT
 
 #about {
     padding: 48px ;
-    background-color: #f8ffdc;
+    background-color: ;
 }
 
 h2 {
